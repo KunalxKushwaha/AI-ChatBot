@@ -9,7 +9,7 @@
 
 :root{
     --primary-color: #4A90E2;
-    --secondary-color: #aeeadd;
+    --secondary-color: #dbe2fc;
     --background-color: #F5F7FA;
     --text-color: #333333;
     --border-color: #E0E0E0;
@@ -22,4 +22,14 @@ body{
     justify-content: center;
     height: 100dvh;
     width: 100%;
+}
+
+.container{
+    background: white;
+    width: 25rem;
+    max-height: 35rem;
+    border-radius: 0.75rem;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+    height: 90%;
+    margin-inline: 1rem;
 }

@@ -53,5 +53,14 @@ function addQuestionSection(messsage) {
 }
 
 function addAnswerSection(messsage) {
+    const SectionElement = document.createElement("section");
+    SectionElement.className = "Answer-section";
+    SectionElement.innerHTML = getLoadingsvg();
+
+    content.appendChild(SectionElement);
+    chatInp.value = ""; // Clear the input field after sending the message
+}
+
+function getLoadingsvg() {
   
 }

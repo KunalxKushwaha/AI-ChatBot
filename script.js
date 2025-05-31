@@ -1,4 +1,4 @@
-const API_KEY = "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";
+const API_KEY = "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";
 
 const content = document.getElementById("content");
 const chatInp = document.getElementById("Chat-Input");
@@ -52,6 +52,7 @@ fetchData.then(response => response.json())
   })
   .catch(error => {
     console.error("Error:", error);
+    
   })
   .finally(() => {
     scrollToBottom();
@@ -83,7 +84,7 @@ function addAnswerSection(messsage) {
     content.appendChild(SectionElement);
     getAnswer(messsage);
     } else{
-         const answerSectionElement = document.getElementById(AnswerSectionId);
+         const answerSectionElement = document.getElementById('AnswerSectionId');
          answerSectionElement.textContent = messsage;
     }
  
@@ -99,3 +100,4 @@ function scrollToBottom() {
     behavior: 'smooth'
   })
 }
+

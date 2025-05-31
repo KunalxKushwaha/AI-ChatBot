@@ -67,7 +67,40 @@ body{
     padding: 0.5rem;
     border-radius: 0.5rem 0.5rem 0.5rem 0;
     width: fit-content;
+}
 
+.Ques-Section{
+    background: var(--primary-color);
+    padding: 0.5rem;
+    border-radius: 0.5rem 0.5rem 0rem 0.5rem;
+    color: white;
+    width: fit-content;
+    margin-left: auto;
+}
 
+.Chat-ip{
+    outline: none;
+    border: none;
+    flex: 1;
+    height: 2.5rem;
+}
 
+.send-Button{
+    background: var(--primary-color);
+    color: white;
+    border: none;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    transition:  0.4s ease;
+    fill: white;
+    height: 40px;
+    width: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.send-Button:hover{
+    transform: scale(1.09);
 }

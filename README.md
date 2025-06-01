@@ -6,7 +6,7 @@ Although The API Call Is Still Facing Some Technical Issues as it has some limit
 
 The DeepSeek AI Chatbot Project is a cutting-edge conversational AI solution designed to provide human-like interactions through natural language understanding and generation. Powered by advanced large language models (LLMs), DeepSeek AI is tailored to serve a wide range of domains, including customer service, education, healthcare, finance, and general-purpose assistance.
 
-Key Features:<br>
+<h4>Key Features:<br></h4>
 1. Natural Language Understanding (NLU): DeepSeek AI can comprehend user intents, context, and sentiment to deliver accurate and relevant responses.
 
 2. Multi-Turn Conversations: Maintains context across multiple exchanges for seamless and coherent interactions.
@@ -19,7 +19,7 @@ Key Features:<br>
 
 6. Scalable and Secure: Built for performance, privacy, and compliance, suitable for enterprise-grade deployment.
 
-Use Cases:<br>
+<h4>Use Cases:<br></h4>
 --Customer Support Automation
 
 --Virtual Teaching Assistants
@@ -30,10 +30,12 @@ Use Cases:<br>
 
 --Knowledge Retrieval Assistants
 
-Project Goals:<br>
+<h4>Project Goals:<br></h4>
 = Enhance user engagement with intelligent, context-aware conversations.
 
 = Reduce operational costs by automating routine tasks and inquiries.
 
-= Improve accessibility to information and services across various platforms.
+= Improve accessibility to information and services across various platforms.<br>
+
+# Author - Kunal Kushwaha
 

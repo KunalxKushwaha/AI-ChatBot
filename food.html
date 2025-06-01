@@ -1,0 +1,209 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Delicious Food</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Arial', sans-serif;
+        }
+
+        body {
+            background-color: #f4f4f4;
+        }
+
+        .header {
+            background-color: #333;
+            color: white;
+            padding: 1rem;
+        }
+
+        .nav {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 1rem;
+        }
+
+        .nav-links {
+            list-style: none;
+            display: flex;
+            gap: 2rem;
+        }
+
+        .nav-links a {
+            color: white;
+            text-decoration: none;
+        }
+
+        .hero {
+            background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('https://images.unsplash.com/photo-1569715573964-7ICONIX1920?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80');
+            height: 80vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            color: white;
+            padding: 0 1rem;
+        }
+
+        .hero h1 {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+        }
+
+        .hero p {
+            font-size: 1.2rem;
+            margin-bottom: 2rem;
+        }
+
+        .cta-button {
+            background-color: #ff4d4d;
+            color: white;
+            padding: 1rem 2rem;
+            border: none;
+            border-radius: 5px;
+            font-size: 1.1rem;
+            cursor: pointer;
+        }
+
+        .food-section {
+            padding: 3rem 1rem;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .food-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 2rem;
+            margin-top: 2rem;
+        }
+
+        .food-item {
+            background-color: white;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+
+        .food-item img {
+            width: 100%;
+            height: 250px;
+            object-fit: cover;
+        }
+
+        .food-item-content {
+            padding: 1.5rem;
+        }
+
+        .food-item h3 {
+            margin-bottom: 0.5rem;
+        }
+
+        .food-item p {
+            color: #666;
+            margin-bottom: 1rem;
+        }
+
+        .price {
+            font-weight: bold;
+            color: #ff4d4d;
+        }
+
+        .about {
+            text-align: center;
+            padding: 3rem 1rem;
+            background-color: #333;
+            color: white;
+        }
+
+        footer {
+            background-color: #222;
+            color: white;
+            padding: 2rem 1rem;
+            text-align: center;
+        }
+
+        .social-links {
+            margin-top: 1rem;
+        }
+
+        .social-links a {
+            color: white;
+            margin: 0 0.5rem;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <header class="header">
+        <nav class="nav">
+            <h2>Delicious Food</h2>
+            <ul class="nav-links">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#menu">Menu</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <div>
+            <h1>Welcome to Delicious Food</h1>
+            <p>Experience the best culinary dishes from around the world</p>
+            <button class="cta-button">Order Now</button>
+        </div>
+    </section>
+
+    <section class="food-section" id="menu">
+        <h2>Our Menu</h2>
+        <div class="food-grid">
+            <div class="food-item">
+                <img src="https://images.unsplash.com/photo-1578985545062-69928b1d9587?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Burger">
+                <div class="food-item-content">
+                    <h3>Beef Burger</h3>
+                    <p>Juicy beef patty with fresh vegetables and special sauce</p>
+                    <p class="price">$12.99</p>
+                </div>
+            </div>
+            <div class="food-item">
+                <img src="https://images.unsplash.com/photo-1509440159596-0249088772ff?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Pizza">
+                <div class="food-item-content">
+                    <h3>Cheese Pizza</h3>
+                    <p>Melted mozzarella cheese with fresh tomato sauce</p>
+                    <p class="price">$14.99</p>
+                </div>
+            </div>
+            <div class="food-item">
+                <img src="https://images.unsplash.com/photo-1535336384982-9e657bd8b336?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Salad">
+                <div class="food-item-content">
+                    <h3>Fresh Salad</h3>
+                    <p>Mixed greens with seasonal vegetables</p>
+                    <p class="price">$9.99</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="about" id="about">
+        <h2>About Us</h2>
+        <p>We are passionate about providing high-quality food with the freshest ingredients.</p>
+    </section>
+
+    <footer>
+        <p>Contact us: (555) 123-4567 | info@deliciousfood.com</p>
+        <div class="social-links">
+            <a href="#">Facebook</a>
+            <a href="#">Instagram</a>
+            <a href="#">Twitter</a>
+        </div>
+    </footer>
+</body>
+</html>

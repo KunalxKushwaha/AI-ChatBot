@@ -84,7 +84,7 @@ function addAnswerSection(messsage) {
     content.appendChild(SectionElement);
     getAnswer(messsage);
     } else{
-         const answerSectionElement = document.getElementById('AnswerSectionId');
+         const answerSectionElement = document.getElementById(AnswerSectionId);
          answerSectionElement.textContent = messsage;
     }
  

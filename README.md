@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/languages/top/your-username/deepseek-ai-chatbot?style=flat-square" />
+  <img src="https://img.shields.io/github/languages/top/KunalxKushwaha/deepseek-ai-chatbot?style=flat-square" />
   <img src="https://img.shields.io/badge/Made%20with-HTML%20%26%20JS-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square" />
 </p>

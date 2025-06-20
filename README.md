@@ -132,5 +132,4 @@ This project is open-source and available under the MIT License.
 
 ---
 
-Would you like me to create the HTML, CSS, and JS starter files for the chatbot as well?
 

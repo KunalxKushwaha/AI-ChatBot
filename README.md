@@ -120,7 +120,7 @@ Inspired by ChatGPT UI
 
 Powered by DeepSeek AI (or simulated)
 
-UI/UX by Your Name
+UI/UX by Kunal Kushwaha 
 
 
 

@@ -67,7 +67,7 @@ You can plug in a real **DeepSeek API** or simulate replies using static `JSON`.
 
 ```bash
 git clone https://github.com/KunalxKushwaha/AI-Chatbot.git
-cd deepseek-ai-chatbot
+cd AI-Chatbot
 
 ▶️ Open index.html in Browser
 

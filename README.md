@@ -114,9 +114,7 @@ fetch("https://api.deepseek.com/your-endpoint", {
 
 ---
 
-🙌 Credits
-
-Inspired by ChatGPT UI
+🙌 Credit
 
 Powered by DeepSeek AI (or simulated)
 

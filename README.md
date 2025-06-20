@@ -13,7 +13,7 @@
 
 ## 🌐 Live Demo
 
-👉 [Click here to try the chatbot](https://your-live-demo-link.com)
+👉 [Click here to try the Chatbot](https://ai-chat-bot-ten-pi.vercel.app/)
 
 ---
 

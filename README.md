@@ -19,7 +19,7 @@
 
 ## 🧠 Overview
 
-**DeepSeek AI Chatbot** is an interactive and user-friendly conversational UI inspired by modern AI assistants. It's designed with a clean interface and powered using JavaScript and fetch APIs for interaction with a DeepSeek-based backend (or simulated responses).
+**DeepSeek AI Chatbot** is an interactive and user-friendly conversational UI inspired by modern AI assistants. It's designed with a clean interface and powered using JavaScript and fetch APIs for interaction with a DeepSeek-based backend (or simulated responses)
 
 ---
 

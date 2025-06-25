@@ -84,7 +84,7 @@ start index.html  # Windows
 <img src="https://your-screenshot-link.com/chat-ui-preview.png" width="100%" alt="Chatbot Preview" />
 ---
 
-🔧 Want to Use Your Own API?
+<h4>🔧 Want to Use Your Own API?</h4>
 
 Replace the API call inside script.js like this:
 

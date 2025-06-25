@@ -119,9 +119,6 @@ Powered by DeepSeek AI (or simulated)
 UI/UX by Kunal Kushwaha 
 
 
-
----
-
 📄 License
 
 This project is open-source and available under the MIT License.

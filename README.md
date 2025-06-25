@@ -112,7 +112,7 @@ fetch("https://api.deepseek.com/your-endpoint", {
 
 ---
 
-🙌 Credit
+## 🙌 Credit
 
 Powered by DeepSeek AI (or simulated)
 

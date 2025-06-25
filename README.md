@@ -98,7 +98,7 @@ fetch("https://api.deepseek.com/your-endpoint", {
 
 ---
 
-📌 Future Improvements:
+## 📌 Future Improvements:
 
 🔊 Voice Input / Output
 

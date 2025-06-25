@@ -79,7 +79,7 @@ start index.html  # Windows
 
 ---
 ```
-✨ Preview
+## ✨ Preview
 
 <img src="https://your-screenshot-link.com/chat-ui-preview.png" width="100%" alt="Chatbot Preview" />
 ---

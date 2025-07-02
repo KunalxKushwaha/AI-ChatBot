@@ -25,7 +25,7 @@
 
 ## 🚀 Features
 
-- 💬 Smart, conversational UI
+- 💬 Smart, conversational UI.
 - 🎨 Fully responsive and modern design
 - 🧠 Typing animation and bot delay for realism
 - 🔁 Scrollable chat container with auto-scroll

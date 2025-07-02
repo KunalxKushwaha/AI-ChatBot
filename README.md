@@ -104,7 +104,7 @@ fetch("https://api.deepseek.com/your-endpoint", {
 
 🌐 API key management via env variables.
 
-📱 PWA support for mobile usage
+📱 PWA support for mobile usage.
 
 🌈 Theming with custom presets
 

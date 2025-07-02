@@ -106,7 +106,7 @@ fetch("https://api.deepseek.com/your-endpoint", {
 
 📱 PWA support for mobile usage.
 
-🌈 Theming with custom presets
+🌈 Theming with custom presets.
 
 
 

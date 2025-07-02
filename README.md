@@ -100,7 +100,7 @@ fetch("https://api.deepseek.com/your-endpoint", {
 
 ## 📌 Future Improvements:
 
-🔊 Voice Input / Output
+🔊 Voice Input / Output.
 
 🌐 API key management via env variables
 

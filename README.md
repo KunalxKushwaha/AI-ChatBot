@@ -116,7 +116,7 @@ fetch("https://api.deepseek.com/your-endpoint", {
 
 Powered by DeepSeek AI (or simulated)
 
-UI/UX by Kunal Kushwaha 
+UI/UX by Kunal Kushwaha.
 
 
 ## 📄 License

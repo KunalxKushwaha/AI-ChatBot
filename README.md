@@ -102,7 +102,7 @@ fetch("https://api.deepseek.com/your-endpoint", {
 
 🔊 Voice Input / Output.
 
-🌐 API key management via env variables
+🌐 API key management via env variables.
 
 📱 PWA support for mobile usage
 

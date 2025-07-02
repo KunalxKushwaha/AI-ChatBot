@@ -28,7 +28,7 @@
 - 💬 Smart, conversational UI.
 - 🎨 Fully responsive and modern design.
 - 🧠 Typing animation and bot delay for realism.
-- 🔁 Scrollable chat container with auto-scroll
+- 🔁 Scrollable chat container with auto-scroll.
 - 🔌 Easily integratable with any backend API (OpenAI, DeepSeek, etc.)
 - 🌙 Optional dark/light mode toggle (if added)
 
